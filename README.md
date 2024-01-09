@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/VXLqjAFn)
+# MultiStepForm
+
+A React component for creating multi-step forms using Formik.
+
+## Table of Contents
+
+- [MultiStepForm](#multistepform)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Deploy](#deploy)
+
+
+## Overview
+
+The `MultiStepForm` component is designed to facilitate the creation of multi-step forms in React applications. It uses Formik for form management and validation, allowing users to navigate through different form sections.
+
+## Deploy
+
+A React component that renders the multi-step form will be uploaded to `github` and will be deployed to `Netlify`
