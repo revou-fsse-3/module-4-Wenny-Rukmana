@@ -5,7 +5,6 @@ A React component for creating multi-step forms using Formik.
 ## Table of Contents
 
 ## Week 10 assignment
-- [List of  Category] (#listofcategory)
   - [Overview LOC](#overview-loc)
   - [Deploy LOC](#deploy-loc)
 
